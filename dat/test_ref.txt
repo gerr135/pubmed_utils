@@ -1,0 +1,147 @@
+PMID- 37202314
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230717
+LR  - 20240210
+IS  - 1873-7560 (Electronic)
+IS  - 0302-2838 (Print)
+IS  - 0302-2838 (Linking)
+VI  - 84
+IP  - 2
+DP  - 2023 Aug
+TI  - 2022 Update on Prostate Cancer Epidemiology and Risk Factors-A Systematic Review.
+PG  - 191-206
+LID - S0302-2838(23)02786-0 [pii]
+LID - 10.1016/j.eururo.2023.04.021 [doi]
+AB  - CONTEXT: Prostate cancer (PCa) is one of the most common cancers worldwide.
+      Understanding the epidemiology and risk factors of the disease is paramount to
+      improve primary and secondary prevention strategies. OBJECTIVE: To systematically
+      review and summarize the current evidence on the descriptive epidemiology, large
+      screening studies, diagnostic techniques, and risk factors of PCa. EVIDENCE
+      ACQUISITION: PCa incidence and mortality rates for 2020 were obtained from the
+      GLOBOCAN database of the International Agency for Research on Cancer. A
+      systematic search was performed in July 2022 using PubMed/MEDLINE and EMBASE
+      biomedical databases. The review was conducted in accordance with the Preferred
+      Reporting Items for Systematic Reviews and Meta-analyses guidelines and was
+      registered in PROSPERO (CRD42022359728). EVIDENCE SYNTHESIS: Globally, PCa is the
+      second most common cancer, with the highest incidence in North and South America,
+      Europe, Australia, and the Caribbean. Risk factors include age, family history,
+      and genetic predisposition. Additional factors may include smoking, diet,
+      physical activity, specific medications, and occupational factors. As PCa
+      screening has become more accepted, newer approaches such as magnetic resonance
+      imaging (MRI) and biomarkers have been implemented to identify patients who are
+      likely to harbor significant tumors. Limitations of this review include the
+      evidence being derived from meta-analyses of mostly retrospective studies.
+      CONCLUSIONS: PCa remains the second most common cancer among men worldwide. PCa
+      screening is gaining acceptance and will likely reduce PCa mortality at the cost
+      of overdiagnosis and overtreatment. Increasing use of MRI and biomarkers for the
+      detection of PCa may mitigate some of the negative consequences of screening.
+      PATIENT SUMMARY: Prostate cancer (PCa) remains the second most common cancer
+      among men, and screening for PCa is likely to increase in the future. Improved
+      diagnostic techniques can help reduce the number of men who need to be diagnosed
+      and treated to save one life. Avoidable risk factors for PCa may include factors
+      such as smoking, diet, physical activity, specific medications, and certain
+      occupations.
+CI  - Copyright © 2023. Published by Elsevier B.V.
+FAU - Bergengren, Oskar
+AU  - Bergengren O
+AD  - Department of Surgery (Urology Service), Memorial Sloan Kettering Cancer Center,
+      New York, NY, USA; Department of Surgical Sciences, Uppsala University, Uppsala,
+      Sweden. Electronic address: oskar.bergengren@surgsci.uu.se.
+FAU - Pekala, Kelly R
+AU  - Pekala KR
+AD  - Department of Surgery (Urology Service), Memorial Sloan Kettering Cancer Center,
+      New York, NY, USA.
+FAU - Matsoukas, Konstantina
+AU  - Matsoukas K
+AD  - Medical Library, Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+FAU - Fainberg, Jonathan
+AU  - Fainberg J
+AD  - Department of Surgery (Urology Service), Memorial Sloan Kettering Cancer Center,
+      New York, NY, USA.
+FAU - Mungovan, Sean F
+AU  - Mungovan SF
+AD  - Westmead Private Physiotherapy Services and The Clinical Research Institute,
+      Westmead Private Hospital, Sydney, Australia.
+FAU - Bratt, Ola
+AU  - Bratt O
+AD  - Department of Urology, Institute of Clinical Sciences, Sahlgrenska Academy,
+      University of Gothenburg, Gothenburg, Sweden.
+FAU - Bray, Freddie
+AU  - Bray F
+AD  - Cancer Surveillance Branch, International Agency for Research on Cancer, Lyon,
+      France.
+FAU - Brawley, Otis
+AU  - Brawley O
+AD  - Department of Oncology, Johns Hopkins School of Medicine, Baltimore, MD, USA;
+      Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+      Baltimore, MD, USA.
+FAU - Luckenbaugh, Amy N
+AU  - Luckenbaugh AN
+AD  - Vanderbilt University Medical Center, Nashville, TN, USA.
+FAU - Mucci, Lorelei
+AU  - Mucci L
+AD  - Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+FAU - Morgan, Todd M
+AU  - Morgan TM
+AD  - Department of Urology, University of Michigan, Ann Arbor, MI, USA.
+FAU - Carlsson, Sigrid V
+AU  - Carlsson SV
+AD  - Department of Surgery (Urology Service), Memorial Sloan Kettering Cancer Center,
+      New York, NY, USA; Department of Urology, Institute of Clinical Sciences,
+      Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden; Department of
+      Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York,
+      NY, USA.
+LA  - eng
+GR  - K22 CA234400/CA/NCI NIH HHS/United States
+GR  - P30 CA008748/CA/NCI NIH HHS/United States
+GR  - R01 CA240991/CA/NCI NIH HHS/United States
+GR  - T32 CA082088/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PT  - Systematic Review
+DEP - 20230516
+PL  - Switzerland
+TA  - Eur Urol
+JT  - European urology
+JID - 7512719
+RN  - EC 3.4.21.77 (Prostate-Specific Antigen)
+SB  - IM
+MH  - Male
+MH  - Humans
+MH  - Retrospective Studies
+MH  - *Prostatic Neoplasms/diagnosis/epidemiology/pathology
+MH  - Prostate/pathology
+MH  - Risk Factors
+MH  - Prostate-Specific Antigen
+PMC - PMC10851915
+MID - NIHMS1954607
+OTO - NOTNLM
+OT  - Epidemiology
+OT  - Prostate cancer
+OT  - Risk factors
+OT  - Screening
+COIS- Financial disclosures: Oskar Bergengren certifies that all conflicts of interest,
+      including specific financial interests and relationships and affiliations
+      relevant to the subject matter or materials discussed in the manuscript (eg,
+      employment/affiliation, grants or funding, consultancies, honoraria, stock
+      ownership or options, expert testimony, royalties, or patents filed, received, or
+      pending), are the following: None.
+EDAT- 2023/05/19 01:04
+MHDA- 2023/07/17 06:42
+PMCR- 2024/08/01
+CRDT- 2023/05/18 22:02
+PHST- 2023/01/13 00:00 [received]
+PHST- 2023/03/29 00:00 [revised]
+PHST- 2023/04/20 00:00 [accepted]
+PHST- 2024/08/01 00:00 [pmc-release]
+PHST- 2023/07/17 06:42 [medline]
+PHST- 2023/05/19 01:04 [pubmed]
+PHST- 2023/05/18 22:02 [entrez]
+AID - S0302-2838(23)02786-0 [pii]
+AID - 10.1016/j.eururo.2023.04.021 [doi]
+PST - ppublish
+SO  - Eur Urol. 2023 Aug;84(2):191-206. doi: 10.1016/j.eururo.2023.04.021. Epub 2023
+      May 16.
