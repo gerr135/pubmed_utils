@@ -1,0 +1,356 @@
+PMID- 37202314
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230717
+LR  - 20240210
+IS  - 1873-7560 (Electronic)
+IS  - 0302-2838 (Print)
+IS  - 0302-2838 (Linking)
+VI  - 84
+IP  - 2
+DP  - 2023 Aug
+TI  - 2022 Update on Prostate Cancer Epidemiology and Risk Factors-A Systematic Review.
+PG  - 191-206
+LID - S0302-2838(23)02786-0 [pii]
+LID - 10.1016/j.eururo.2023.04.021 [doi]
+AB  - CONTEXT: Prostate cancer (PCa) is one of the most common cancers worldwide.
+      Understanding the epidemiology and risk factors of the disease is paramount to
+      improve primary and secondary prevention strategies. OBJECTIVE: To systematically
+      review and summarize the current evidence on the descriptive epidemiology, large
+      screening studies, diagnostic techniques, and risk factors of PCa. EVIDENCE
+      ACQUISITION: PCa incidence and mortality rates for 2020 were obtained from the
+      GLOBOCAN database of the International Agency for Research on Cancer. A
+      systematic search was performed in July 2022 using PubMed/MEDLINE and EMBASE
+      biomedical databases. The review was conducted in accordance with the Preferred
+      Reporting Items for Systematic Reviews and Meta-analyses guidelines and was
+      registered in PROSPERO (CRD42022359728). EVIDENCE SYNTHESIS: Globally, PCa is the
+      second most common cancer, with the highest incidence in North and South America,
+      Europe, Australia, and the Caribbean. Risk factors include age, family history,
+      and genetic predisposition. Additional factors may include smoking, diet,
+      physical activity, specific medications, and occupational factors. As PCa
+      screening has become more accepted, newer approaches such as magnetic resonance
+      imaging (MRI) and biomarkers have been implemented to identify patients who are
+      likely to harbor significant tumors. Limitations of this review include the
+      evidence being derived from meta-analyses of mostly retrospective studies.
+      CONCLUSIONS: PCa remains the second most common cancer among men worldwide. PCa
+      screening is gaining acceptance and will likely reduce PCa mortality at the cost
+      of overdiagnosis and overtreatment. Increasing use of MRI and biomarkers for the
+      detection of PCa may mitigate some of the negative consequences of screening.
+      PATIENT SUMMARY: Prostate cancer (PCa) remains the second most common cancer
+      among men, and screening for PCa is likely to increase in the future. Improved
+      diagnostic techniques can help reduce the number of men who need to be diagnosed
+      and treated to save one life. Avoidable risk factors for PCa may include factors
+      such as smoking, diet, physical activity, specific medications, and certain
+      occupations.
+CI  - Copyright © 2023. Published by Elsevier B.V.
+FAU - Bergengren, Oskar
+AU  - Bergengren O
+AD  - Department of Surgery (Urology Service), Memorial Sloan Kettering Cancer Center,
+      New York, NY, USA; Department of Surgical Sciences, Uppsala University, Uppsala,
+      Sweden. Electronic address: oskar.bergengren@surgsci.uu.se.
+FAU - Pekala, Kelly R
+AU  - Pekala KR
+AD  - Department of Surgery (Urology Service), Memorial Sloan Kettering Cancer Center,
+      New York, NY, USA.
+FAU - Matsoukas, Konstantina
+AU  - Matsoukas K
+AD  - Medical Library, Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+FAU - Fainberg, Jonathan
+AU  - Fainberg J
+AD  - Department of Surgery (Urology Service), Memorial Sloan Kettering Cancer Center,
+      New York, NY, USA.
+FAU - Mungovan, Sean F
+AU  - Mungovan SF
+AD  - Westmead Private Physiotherapy Services and The Clinical Research Institute,
+      Westmead Private Hospital, Sydney, Australia.
+FAU - Bratt, Ola
+AU  - Bratt O
+AD  - Department of Urology, Institute of Clinical Sciences, Sahlgrenska Academy,
+      University of Gothenburg, Gothenburg, Sweden.
+FAU - Bray, Freddie
+AU  - Bray F
+AD  - Cancer Surveillance Branch, International Agency for Research on Cancer, Lyon,
+      France.
+FAU - Brawley, Otis
+AU  - Brawley O
+AD  - Department of Oncology, Johns Hopkins School of Medicine, Baltimore, MD, USA;
+      Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+      Baltimore, MD, USA.
+FAU - Luckenbaugh, Amy N
+AU  - Luckenbaugh AN
+AD  - Vanderbilt University Medical Center, Nashville, TN, USA.
+FAU - Mucci, Lorelei
+AU  - Mucci L
+AD  - Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+FAU - Morgan, Todd M
+AU  - Morgan TM
+AD  - Department of Urology, University of Michigan, Ann Arbor, MI, USA.
+FAU - Carlsson, Sigrid V
+AU  - Carlsson SV
+AD  - Department of Surgery (Urology Service), Memorial Sloan Kettering Cancer Center,
+      New York, NY, USA; Department of Urology, Institute of Clinical Sciences,
+      Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden; Department of
+      Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York,
+      NY, USA.
+LA  - eng
+GR  - K22 CA234400/CA/NCI NIH HHS/United States
+GR  - P30 CA008748/CA/NCI NIH HHS/United States
+GR  - R01 CA240991/CA/NCI NIH HHS/United States
+GR  - T32 CA082088/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PT  - Systematic Review
+DEP - 20230516
+PL  - Switzerland
+TA  - Eur Urol
+JT  - European urology
+JID - 7512719
+RN  - EC 3.4.21.77 (Prostate-Specific Antigen)
+SB  - IM
+MH  - Male
+MH  - Humans
+MH  - Retrospective Studies
+MH  - *Prostatic Neoplasms/diagnosis/epidemiology/pathology
+MH  - Prostate/pathology
+MH  - Risk Factors
+MH  - Prostate-Specific Antigen
+PMC - PMC10851915
+MID - NIHMS1954607
+OTO - NOTNLM
+OT  - Epidemiology
+OT  - Prostate cancer
+OT  - Risk factors
+OT  - Screening
+COIS- Financial disclosures: Oskar Bergengren certifies that all conflicts of interest,
+      including specific financial interests and relationships and affiliations
+      relevant to the subject matter or materials discussed in the manuscript (eg,
+      employment/affiliation, grants or funding, consultancies, honoraria, stock
+      ownership or options, expert testimony, royalties, or patents filed, received, or
+      pending), are the following: None.
+EDAT- 2023/05/19 01:04
+MHDA- 2023/07/17 06:42
+PMCR- 2024/08/01
+CRDT- 2023/05/18 22:02
+PHST- 2023/01/13 00:00 [received]
+PHST- 2023/03/29 00:00 [revised]
+PHST- 2023/04/20 00:00 [accepted]
+PHST- 2024/08/01 00:00 [pmc-release]
+PHST- 2023/07/17 06:42 [medline]
+PHST- 2023/05/19 01:04 [pubmed]
+PHST- 2023/05/18 22:02 [entrez]
+AID - S0302-2838(23)02786-0 [pii]
+AID - 10.1016/j.eururo.2023.04.021 [doi]
+PST - ppublish
+SO  - Eur Urol. 2023 Aug;84(2):191-206. doi: 10.1016/j.eururo.2023.04.021. Epub 2023
+      May 16.
+
+PMID- 32593798
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210106
+LR  - 20231116
+IS  - 1569-8041 (Electronic)
+IS  - 0923-7534 (Linking)
+VI  - 31
+IP  - 9
+DP  - 2020 Sep
+TI  - Prostate cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and
+      follow-up.
+PG  - 1119-1134
+LID - S0923-7534(20)39898-7 [pii]
+LID - 10.1016/j.annonc.2020.06.011 [doi]
+FAU - Parker, C
+AU  - Parker C
+AD  - Royal Marsden Hospital, Sutton, UK.
+FAU - Castro, E
+AU  - Castro E
+AD  - Department of Medical Oncology, Virgen de la Victoria University Hospital,
+      Institute of Biomedical Research in Málaga, Malaga, Spain.
+FAU - Fizazi, K
+AU  - Fizazi K
+AD  - Department of Cancer Medicine, Institut Gustave Roussy, University of Paris
+      Saclay, Villejuif, France.
+FAU - Heidenreich, A
+AU  - Heidenreich A
+AD  - Department of Urology, Uro-Oncology, Robot-Assisted and Specialized Urologic
+      Surgery, University Hospital of Cologne, Cologne, Germany.
+FAU - Ost, P
+AU  - Ost P
+AD  - Department of Radiation Oncology, Ghent University Hospital, Ghent, Belgium.
+FAU - Procopio, G
+AU  - Procopio G
+AD  - Department of Medical Oncology 1, Fondazione IRCCS Istituto Nazionale dei Tumori
+      di Milano, Milan, Italy.
+FAU - Tombal, B
+AU  - Tombal B
+AD  - Institut de Recherche Clinique, Université catholique de Louvain, Brussels,
+      Belgium.
+FAU - Gillessen, S
+AU  - Gillessen S
+AD  - Oncology Institute of Southern Switzerland, Bellinzona, Switzerland; Faculty of
+      Biomedical Sciences, USI, Lugano, Switzerland; Division of Cancer Medicine,
+      University of Manchester, Manchester, UK.
+CN  - ESMO Guidelines Committee. Electronic address: clinicalguidelines@esmo.org
+LA  - eng
+PT  - Journal Article
+PT  - Practice Guideline
+DEP - 20200625
+PL  - England
+TA  - Ann Oncol
+JT  - Annals of oncology : official journal of the European Society for Medical
+      Oncology
+JID - 9007735
+RN  - EC 3.4.21.77 (Prostate-Specific Antigen)
+SB  - IM
+MH  - Europe
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Male
+MH  - Neoplasm Staging
+MH  - Prostate-Specific Antigen
+MH  - *Prostatic Neoplasms/diagnosis/epidemiology/therapy
+MH  - Radiotherapy
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - chemotherapy
+OT  - hormone therapy
+OT  - prostate cancer
+OT  - radiotherapy
+OT  - surgery
+COIS- Disclosure CP has reported honoraria from Bayer, Janssen and Advanced Accelerator
+      Applications (AAA) and research grants from Bayer; EC has reported honoraria from
+      Astellas, AstraZeneca, Bayer, Janssen and Pfizer and research grants from
+      AstraZeneca, Bayer and Janssen; KF has reported participation to advisory
+      boards/honoraria for Astellas, AAA, Bayer, Clovis, Curevac, Incyte, Janssen,
+      Merck Sharp & Dohme, Orion, Sanofi; AH has reported paid consultancy for Amgen,
+      Astellas, Ferring, Ipsen, Jansen, Pfizer, Sanofi, Takeda and has received
+      research grants from Astellas and Sanofi; PO has reported institutional honoraria
+      from Janssen, Bayer, Ferring Pharmaceuticals for consultancy and research grants
+      from Merck and Varian; GP has reported advisory boards/honoraria from
+      AstraZeneca, Bayer, Bristol-Myers Squibb, Ipsen, Janssen, Merck Sharp & Dohme,
+      Novartis and Pfizer; BT has reported paid consultancy for Amgen, Bayer, Astellas,
+      Ferring Pharmaceuticals, Janssen, Sanofi-Genzyme, Steba and that he is an
+      investigator for Bayer, Astellas, Ferring Pharmaceuticals, Myovant Sciences,
+      Janssen, Sanofi-Genzyme and Steba; SG has reported advisory role (including
+      independent data monitoring committees) and speakers bureau for AAA
+      International, Active Biotech AB, Amgen, Astellas Pharma, Bayer, Bristol-Myers
+      Squibb, CellSearch, Clovis, CureVac, Dendreon, ESSA Pharma, Ferring, Innocrin
+      Pharmaceuticals, Janssen Cilag, MaxiVAX, Millenium, Nectar, Novartis, Orion,
+      Pfizer, ProteoMediX, Roche, Sanofi, and has reported being the co-inventor for a
+      method for biomarker discovery (on patent application WO 2009138392 A1, granted
+      in China, Europe, Japan and the USA).
+EDAT- 2020/07/01 06:00
+MHDA- 2021/01/07 06:00
+CRDT- 2020/06/29 06:00
+PHST- 2020/05/20 00:00 [received]
+PHST- 2020/06/10 00:00 [revised]
+PHST- 2020/06/11 00:00 [accepted]
+PHST- 2020/07/01 06:00 [pubmed]
+PHST- 2021/01/07 06:00 [medline]
+PHST- 2020/06/29 06:00 [entrez]
+AID - S0923-7534(20)39898-7 [pii]
+AID - 10.1016/j.annonc.2020.06.011 [doi]
+PST - ppublish
+SO  - Ann Oncol. 2020 Sep;31(9):1119-1134. doi: 10.1016/j.annonc.2020.06.011. Epub 2020
+      Jun 25.
+
+PMID- 31493960
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210318
+LR  - 20210318
+IS  - 1873-7560 (Electronic)
+IS  - 0302-2838 (Linking)
+VI  - 77
+IP  - 1
+DP  - 2020 Jan
+TI  - Recent Global Patterns in Prostate Cancer Incidence and Mortality Rates.
+PG  - 38-52
+LID - S0302-2838(19)30619-0 [pii]
+LID - 10.1016/j.eururo.2019.08.005 [doi]
+AB  - CONTEXT: Previous studies have reported significant variation in prostate cancer
+      rates and trends mainly due to differences in detection practices, availability
+      of treatment, and underlying genetic susceptibility. OBJECTIVE: To assess recent
+      worldwide prostate cancer incidence, mortality rates, and trends using up-to-date
+      incidence and mortality data. EVIDENCE ACQUISITION: We present estimated
+      age-standardized prostate cancer incidence and mortality rates by country and
+      world regions for 2018 based on the GLOBOCAN database. We also examined rates and
+      temporal trends for incidence (44 countries) and mortality (76 countries) based
+      on data series from population-based registries. EVIDENCE SYNTHESIS: The highest
+      estimated incidence rates were found in Australia/New Zealand, Northern America,
+      Western and Northern Europe, and the Caribbean, and the lowest rates were found
+      in South-Central Asia, Northern Africa, and South-Eastern and Eastern Asia. The
+      highest estimated mortality rates were found in the Caribbean (Barbados, Trinidad
+      and Tobago, and Cuba), sub-Saharan Africa (South Africa), parts of former Soviet
+      Union (Lithuania, Estonia, and Latvia), whereas the lowest rates were found in
+      Asia (Thailand and Turkmenistan). Prostate cancer incidence rates during the most
+      recent 5 yr declined (five countries) or stabilized (35 countries), after
+      increasing for many years; in contrast, rates continued to increase for four
+      countries in Eastern Europe and Asia. During the most recent 5 data years,
+      mortality rates among the 76 countries examined increased (three countries),
+      remained stable (59 countries), or decreased (14 countries). CONCLUSIONS: As
+      evident from available data, prostate cancer incidence and mortality rates have
+      been on the decline or have stabilized recently in many countries, with decreases
+      more pronounced in high-income countries. These trends may reflect a decline in
+      prostate-specific antigen testing (incidence) and improvements in treatment
+      (mortality). PATIENT SUMMARY: We examined recent trends in prostate cancer
+      incidence and mortality rates in 44 and 76 countries, respectively, and found
+      that rates in most countries stabilized or decreased.
+CI  - Copyright © 2019 European Association of Urology. Published by Elsevier B.V. All
+      rights reserved.
+FAU - Culp, MaryBeth B
+AU  - Culp MB
+AD  - Surveillance and Health Services Research Program, American Cancer Society,
+      Atlanta, GA, USA. Electronic address: MaryBeth.Culp@cancer.org.
+FAU - Soerjomataram, Isabelle
+AU  - Soerjomataram I
+AD  - Cancer Surveillance Section, International Agency for Research on Cancer, Lyon,
+      France.
+FAU - Efstathiou, Jason A
+AU  - Efstathiou JA
+AD  - Department of Radiation Oncology, Massachusetts General Hospital, Boston, MA,
+      USA.
+FAU - Bray, Freddie
+AU  - Bray F
+AD  - Cancer Surveillance Section, International Agency for Research on Cancer, Lyon,
+      France.
+FAU - Jemal, Ahmedin
+AU  - Jemal A
+AD  - Surveillance and Health Services Research Program, American Cancer Society,
+      Atlanta, GA, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190905
+PL  - Switzerland
+TA  - Eur Urol
+JT  - European urology
+JID - 7512719
+SB  - IM
+CIN - Eur Urol. 2020 Jan;77(1):53-54. PMID: 31627967
+CIN - Eur Urol. 2020 May;77(5):e132. PMID: 31843337
+MH  - Global Health
+MH  - Humans
+MH  - Incidence
+MH  - Male
+MH  - Prostatic Neoplasms/*epidemiology/mortality
+OTO - NOTNLM
+OT  - Global patterns
+OT  - Prostate cancer
+OT  - Prostate-specific antigen testing
+EDAT- 2019/09/09 06:00
+MHDA- 2021/03/19 06:00
+CRDT- 2019/09/09 06:00
+PHST- 2019/07/23 00:00 [received]
+PHST- 2019/08/03 00:00 [accepted]
+PHST- 2019/09/09 06:00 [pubmed]
+PHST- 2021/03/19 06:00 [medline]
+PHST- 2019/09/09 06:00 [entrez]
+AID - S0302-2838(19)30619-0 [pii]
+AID - 10.1016/j.eururo.2019.08.005 [doi]
+PST - ppublish
+SO  - Eur Urol. 2020 Jan;77(1):38-52. doi: 10.1016/j.eururo.2019.08.005. Epub 2019 Sep
+      5.
+
