@@ -21,6 +21,25 @@
 
 import sys
 
+class RefAuthors:
+    """Just the author info of the reference.
+    Stores only PMID, authors and affiliations.
+    """
+
+    def __init__(self):
+        "Setup minimalistic params that should be always there"
+        self.PMID = 0
+        self.authors = []
+
+    def fromTxt(self, F)
+        "read reference entry in PubMed text format from open file F"
+        # PubMed text format is strictly ordered, so just go along with the logic
+        line = F.readline()
+        if
+        for line in F:
+            if line == "": break #end of ref block
+
+
 
 class RefData:
     """Reference encapsulation class.
@@ -29,4 +48,12 @@ class RefData:
     """
 
     def __init__(self):
-        "Constructor"
+        "Setup minimalistic params that should be always there"
+        self.PMID = 0
+        self.authors = []
+
+    def fromTxt(self, F)
+        "read reference entry in PubMed text format from open file F"
+        for line in F:
+            if line == "": break #end of ref block
+
