@@ -39,6 +39,9 @@ class RefAuthors:
         #
         # PubMed text format is strictly ordered, so just go along with the logic
         line = F.readline()
+        #print("new block; line_len = ", len(line), "line=", line)
+        if len(line) == 0:
+            return False;
         if PMF_header(line) != PMF_PMID:
             raise Format_Error
         self.PMID = int(PMF_value(line))
@@ -71,10 +74,12 @@ class RefAuthors:
         #
         # end of authors parse
         # now read until the end of the ref block, to reset position properly for next rader
-        while line != "":
+        while len(line) > 1:
             line = F.readline()
-            #print(line)
+            #print("blk end; len(line)=", len(line), " line=", line)
         #print(self.PMID, self.authors)
+        #F.readline()
+        return True;
 
 
     def print(self):
@@ -107,3 +112,10 @@ class RefData:
         for line in F:
             if line == "": break #end of ref block
 
+
+
+#    def from_text(self, F):
+#        "read all ref blocks from the open text file"
+#        while self.readRefBlock(F):
+#            pass
+#

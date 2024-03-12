@@ -353,4 +353,3 @@ AID - 10.1016/j.eururo.2019.08.005 [doi]
 PST - ppublish
 SO  - Eur Urol. 2020 Jan;77(1):38-52. doi: 10.1016/j.eururo.2019.08.005. Epub 2019 Sep
       5.
-

@@ -19,6 +19,9 @@ class RefData_Error(Exception):
 class Format_Error(RefData_Error):
     "base IO formatting exception, can be subclassed"
 
+class RefData_EOF(RefData_Error):
+    "EOF while parsing ref blocks - may be used for flow coltrol"
+
 
 ### --------- ###
 # helper function, use these instead of direct spec in-code, even if small!

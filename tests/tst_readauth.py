@@ -17,11 +17,19 @@ from lib import refdata
 
 
 fn  = "../dat/test_ref.txt"
+fns = "../dat/test_refs.txt"
 
-print("testing parse of a single reference author info")
+print("testing parse of a single reference; author info")
 
 data = refdata.RefAuthors()
 with open(fn) as F:
     data.readRefBlock(F)
     data.print()
 
+print()
+print("testing parse of multiple ref blocks; author info")
+
+with open(fns) as F:
+    data = refdata.RefAuthors()
+    while data.readRefBlock(F):
+        data.print()
