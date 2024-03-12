@@ -31,7 +31,7 @@ class RefAuthors:
         self.PMID = 0
         self.authors = []
 
-    def readRefBlock(self, F)
+    def readRefBlock(self, F):
         "read reference entry in PubMed text format from open file F"
         # NOTE!!!
         # This expects the F to be open and positioned at the 1st line of ref block !!!
@@ -71,20 +71,22 @@ class RefAuthors:
         #
         # end of authors parse
         # now read until the end of the ref block, to reset position properly for next rader
-        while line != "\n":
+        while line != "":
             line = F.readline()
+            #print(line)
+        #print(self.PMID, self.authors)
 
 
-    def print():
-        "print ref auntor info to stdout"
-        print("PMID: ", self.PMID)
+    def print(self):
+        "print ref auntor info to stdout. Primarily for testing"
+        print("PMID:", self.PMID)
         for auth in self.authors:
             FAU, AU, AD = auth
-            print("FAU: ", FAU)
-            print("AU : ", AU )
-            print("AD : ", AD[0])
+            print("FAU :", FAU)
+            print("AU  :", AU)
+            print("AD  :", AD[0])
             for line in AD[1:]:
-                print("   : ", line)
+                print("     ", line)
         print()
 
 
@@ -100,7 +102,7 @@ class RefData:
         self.PMID = 0
         self.authors = []
 
-    def fromTxt(self, F)
+    def fromTxt(self, F):
         "read reference entry in PubMed text format from open file F"
         for line in F:
             if line == "": break #end of ref block

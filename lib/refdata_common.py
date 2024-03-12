@@ -34,7 +34,7 @@ def PMF_header(line):
 def PMF_value(line):
     "returns value part of the field"
     # it lways starts at char 7, even with field continuation
-    return line[6:]
+    return line[6:].strip()
 
 
 
