@@ -19,7 +19,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 #
 
-import sys
+from .refdata_common import *
 
 class RefAuthors:
     """Just the author info of the reference.
@@ -31,16 +31,64 @@ class RefAuthors:
         self.PMID = 0
         self.authors = []
 
-    def fromTxt(self, F)
+    def readRefBlock(self, F)
         "read reference entry in PubMed text format from open file F"
+        # NOTE!!!
+        # This expects the F to be open and positioned at the 1st line of ref block !!!
+        # i.e., at the beginning (1srt line) of file, or right after the empty line ending next block
+        #
         # PubMed text format is strictly ordered, so just go along with the logic
         line = F.readline()
-        if
-        for line in F:
-            if line == "": break #end of ref block
+        if PMF_header(line) != PMF_PMID:
+            raise Format_Error
+        self.PMID = int(PMF_value(line))
+        #
+        #now skip until the 1st FAU field encountered
+        while PMF_header(line) != PMF_FAU:
+            line = F.readline()
+        #
+        # now we are on the 1st line of 1st author, cycle through all authors
+        while PMF_header(line) == PMF_FAU:
+            # store the FAU value
+            authFAU = PMF_value(line)
+            #
+            # now process the AU part
+            line = F.readline()
+            if PMF_header(line) != PMF_AU:
+                raise Format_Error
+            authAU = PMF_value(line)
+            #
+            # now process the AD part
+            line = F.readline()
+            if PMF_header(line) != PMF_AD:
+                raise Format_Error
+            authAD = [PMF_value(line)] # can be multiline
+            line = F.readline()
+            while PMF_header(line) == PMF_EMPTY:
+                authAD.append(PMF_value(line))
+                line = F.readline()
+            self.authors.append((authFAU,authAU,authAD))
+        #
+        # end of authors parse
+        # now read until the end of the ref block, to reset position properly for next rader
+        while line != "\n":
+            line = F.readline()
 
 
+    def print():
+        "print ref auntor info to stdout"
+        print("PMID: ", self.PMID)
+        for auth in self.authors:
+            FAU, AU, AD = auth
+            print("FAU: ", FAU)
+            print("AU : ", AU )
+            print("AD : ", AD[0])
+            for line in AD[1:]:
+                print("   : ", line)
+        print()
 
+
+# NOTE! refactor: derive from Auths or make a casacde of details
 class RefData:
     """Reference encapsulation class.
     This follows the PubMed fields as given in text format.
