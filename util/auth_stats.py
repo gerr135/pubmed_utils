@@ -41,7 +41,6 @@ An optional cretirion can be entered/edited at the top to limit the stats on the
 #    parser.add_argument('dir', choices=["pos","neg"], help="activity direction (one of pos or neg)")
 #    parser.add_argument('-c', type=float, help="threshold crossing, above which  a max instead of regular is taken. Number between 0 and 1, 0.5 is the default (if omitted)")
     parser.add_argument('-o', help="name of output file. If omitted, replaces .ext with -stats.csv")
-    parser.add_argument('-t', choices=File_Formats, help="specify the input data format")
     parser.add_argument('-v', action='store_true', help="be verbose")
     return parser.parse_args()
 
@@ -50,3 +49,9 @@ An optional cretirion can be entered/edited at the top to limit the stats on the
 # ------------------------------------------------
 #main block
 args = ProcessCommandLine()
+
+
+with open(args.fn) as F:
+    data = refdata.RefAuthors()
+    while data.readRefBlock(F):
+        data.print()
