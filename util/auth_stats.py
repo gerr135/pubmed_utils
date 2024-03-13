@@ -21,7 +21,7 @@ then generalise later.
 
 
 import sys,argparse
-from lib import refdata, refdata_io
+from lib import refdata
 
 def condition(text):
     "condition check, if True gets picked for processing"
