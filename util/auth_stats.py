@@ -50,8 +50,43 @@ An optional cretirion can be entered/edited at the top to limit the stats on the
 #main block
 args = ProcessCommandLine()
 
+# author stats will be kept in the dict of tuples, indexed by AU field -
+# just a quick code/prototyping here. May make sense to encapsulate for more serious repeated use
+# we will keep the AU as key, AD plus counts: first, mid, last in a tuple as dict value
+
+auStats = {}
+
 
 with open(args.fn) as F:
     data = refdata.RefAuthors()
     while data.readRefBlock(F):
         data.print()
+        for i in range(len(data.authors)):
+            FAU,AU,AD = data.authors[i]
+            if condition(AD):
+                # increment appropriate counters, create new dict entry if new author
+                if AU in auStats:
+                    #unpack the tuple first
+                    aAD, aFirst, aMid, aLast = auStats[AU]
+                    if i == 0:
+                        # 1st author
+                        aFirst += 1
+                    elif i == len(data.authors):
+                        # last author
+                        aLast  += 1
+                    else:
+                        aMid   += 1
+                    auStats[AU] = aAD, aFirst, aMid, aLast
+                else: # AU not in auStats
+                    # create new entry
+                    aFirst, aMid, aLast = 0, 0, 0
+                    if i == 0: # NOTE: repetition! should encap this if block in function
+                        # 1st author
+                        aFirst += 1
+                    elif i == len(data.authors):
+                        # last author
+                        aLast  += 1
+                    else:
+                        aMid   += 1
+                    auStats[AU] = (AD, aFirst, aMid, aLast)
+

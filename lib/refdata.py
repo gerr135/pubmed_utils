@@ -10,6 +10,9 @@
 # to memory overflows and glacial processing speed for anything larger. But this is
 # easy starting implementation, which should be sufficient for most situations.
 #
+# NOTE: should perhaps refactor author data - this version stores fields as plain tuple:
+# we just keep the tuple of the FAU, AU and AD fields on the list.
+# Should change to an author class to make code more readable and robust.
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the MIT License.
